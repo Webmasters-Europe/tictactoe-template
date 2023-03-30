@@ -4,7 +4,7 @@ Template für die Einsendeaufgabe "Tic Tac Toe" der Class "Webanwendungen mit No
 </p>
 
 ## Tic Tac Toe
-*Tic Tac Toe* ist eine Applikation, bei der Sie kollaborativ im Webbrowser Tic Tac Toe miteinander spielen können. Dieses Template ist der Ausgangspunkt, von dem du in die Einsendeaufgabe starten kannst. Tobe dich aus und setzte deiner Kreativität keine Grenzen.
+*Tic Tac Toe* ist eine Applikation, mit der kollaborativ im Webbrowser Tic Tac Toe gegeneinander gespielt werden kann. Dieses Template ist der Ausgangspunkt, von dem aus du in die Einsendeaufgabe starten kannst. Hier kannst du dich austoben, deiner Kreativität sind keine Grenzen gesetzt.
 
 ## Demo
 
